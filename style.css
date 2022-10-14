@@ -16,3 +16,10 @@ p{
     top: 50%;
 left: 38%;
 }
+
+img{
+    position: absolute;
+    top: 70%;
+    left: 70%;
+
+}
